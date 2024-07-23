@@ -1,0 +1,29 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 8px;
+    background-color: #f9f9f9;
+    width: 220px;
+    height: 270px;
+  }
+
+
+.item p{ 
+  font-size: 1rem;
+  font-weight:bolder;
+  line-height:0.9;
+}
+.buttons button{
+    background-color: #131010;
+    color: white;
+    border: none;
+    margin: 3px;
+    padding: 6px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: small;
+}

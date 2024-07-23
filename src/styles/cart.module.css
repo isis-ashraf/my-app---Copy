@@ -1,0 +1,35 @@
+.cartPage {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center; 
+    }
+
+.actions button {
+    background-color: #150e0e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 17px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 0 10px;
+  }
+  
+.cartItems{
+    display: flex;
+    flex-direction: row;
+    margin-top :20px;
+}
+
+.home{
+    background-color: #150e0e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 17px;
+    font-size: 1rem;
+    cursor: pointer;
+    float: right;
+    margin-top: 40px;
+}

@@ -1,0 +1,34 @@
+.card {
+    cursor: pointer;
+    padding: 35px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    background-color: #fff;
+    margin: 8px;
+    height: 290px;
+    width: 240px;
+    
+  }
+  
+  .card:hover {
+    transform: translateY(-5px) ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+ .card img {
+    width: 220px;
+    height: 200px;
+    object-fit:contain;
+    border-radius: 10px;
+  }
+  
+.card p{
+    text-align: justify;
+    font-size: 1.05rem;
+    font-family:serif;
+    font-weight: bold;
+    margin-top: 20px ;
+    color:rgb(73, 69, 69);
+  }
+  
+  

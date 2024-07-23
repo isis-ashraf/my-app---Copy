@@ -1,0 +1,16 @@
+.SearchContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    margin: 40px 10px ;
+    gap: 15px;
+   
+}
+
+.SearchContainer input{
+    border-radius: 10px ;
+    width: 350px;
+    height: 25px;
+}
+  
